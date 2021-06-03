@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Midd. At the generall quarter sessions of the peace, of our Sovereign Lord the King, held for the County of Middlesex at Westminster in the said county, upon [...] next after the feast of Easter, (to wit) the [...] day of [...] in the year of the reign of our Sovereign Lord Charles the Second, by the grace of God, King of England, Scotland, France, and Ireland, defender of the faith, &amp;c. the [...]. The rates of servants, wages, labourers, workmen and artificers, (in pursuance of the statute of the fifth of Queen Elizabeth, in that behalf made and provided) are rated and assessed by the Justices of the Peace of the said county....</title>
+            <author>Middlesex (England)</author>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26819</idno><idno type="EEBO-CITATION">99888951</idno>
+  <idno type="VID">194004</idno>
+  <idno type="EEBO-PROQUEST">2240899734</idno>
+  
+            <idno type="STC">Wing M1969A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[202]</idno>
+            <idno type="STC">ESTC R232568</idno>
+            <idno type="PROQUEST">ocm99888951</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888951e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26819)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194004)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[202])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Midd. At the generall quarter sessions of the peace, of our Sovereign Lord the King, held for the County of Middlesex at Westminster in the said county, upon [...] next after the feast of Easter, (to wit) the [...] day of [...] in the year of the reign of our Sovereign Lord Charles the Second, by the grace of God, King of England, Scotland, France, and Ireland, defender of the faith, &amp;c. the [...]. The rates of servants, wages, labourers, workmen and artificers, (in pursuance of the statute of the fifth of Queen Elizabeth, in that behalf made and provided) are rated and assessed by the Justices of the Peace of the said county....</title>
+                  <author>Middlesex (England)</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>166[5?]].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint place and publication date from Wing.</note>
+                  <note>Imperfect: tightly bound. Title may be obscured.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Wages --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term type="geographic_name">Middlesex (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:194004:1"/>
+            <p> AT the Generall Quarter Sessions of the Peace, of our Sovereign Lord the King, held for the Coun<g ref="char:EOLhyphen"/>ty of <hi>Middlesex</hi> at <hi>Westminster</hi> in the said County, upon <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> next after the Feast of <hi>Easter,</hi> (to wit) the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Day of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> in the Year of the Reign of our Sovereign <note place="margin">Midd.</note> Lord <hi>CHARLES</hi> the Second, by the Grace of God, King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> Defender of the Faith, &amp;c. the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> The Rates of Servants Wages, Labourers, Workmen and Artificers (in pursuance of the Statute of the Fifth of Queen <hi>Elizabeth,</hi> in that behalf made and provi<g ref="char:EOLhyphen"/>ded) are rated and assessed by the Justices of the Peace of the said County, at the said Sessions assembled, (calling to their assistance some others of the discreet Inhabitants of the said County) as hereafter followeth: And it is ordered by the said Justices, that the Sheriff of the said County shall cause the said Rates to be Proclaimed and Published according to the Statute in that Case also made and provided; and that after such Proclamation and Publication made of the said Rates, that no person whatsoever (which may be therein concerned) shall (this present Year) presume to give, allow, demand, receive, or take any greater Wages then such as are mentioned in the said Rates; neither shall any Master, or Mistress, entertain or put away any Servant, Workman, or Labourer; neither shall any Servant, Workman, or Labourer, depart from any Ma<g ref="char:EOLhyphen"/>ster or Mistress, which may be mentioned or intended in the said Statute of the Fifth of Queen <hi>Elizabeth,</hi> or any other Statute in that behalf provided, without due observation of the said Statutes, under such pains and penalties as are therein respectively mentioned.</p>
+            <div type="tables">
+               <head>
+                  <hi>The Rates of Wages for Labourers and Artificers, published within the County of</hi> Middlesex, <hi>for the Year of our Lord,</hi> 166<gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </head>
+               <p>
+                  <table>
+                     <head>Artificers working by the Year, finding themselves Tools.</head>
+                     <row>
+                        <cell>
+                           <hi>Free Masons.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>12l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Or the second sort</cell>
+                        <cell>8l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Carpenters.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>12l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>8l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Joyners.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>12l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>8l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Carvers.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>12l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>8l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Wheelwrights.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>10l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>6l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ropemakers.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>10l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>6. l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Collermakers</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>10l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>6l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Bricklayers.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>12l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>8l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tylers.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>12l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>8l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Black-smiths.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>10. l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>6l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Plowrights.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>10l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>6l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tanners.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>10l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>6l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Curriers.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>10l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>6l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Wind-millers.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>8l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>5l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Shoe-makers.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>10l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>6l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Carvers.</hi>
+                        </cell>
+                        <cell>Of the best sort with meat and drink</cell>
+                        <cell>18d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>2s. 6d</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> the second sort with meat drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Bricklayers.</hi>
+                        </cell>
+                        <cell>Of the best sort with meat and drink</cell>
+                        <cell>18d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>without meat and drink</cell>
+                        <cell>2s. 6d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort with meat and drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tylers.</hi>
+                        </cell>
+                        <cell>Of the best sort with meat and drink</cell>
+                        <cell>18d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>without meat and drink</cell>
+                        <cell>2s. 6d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort with meat and drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>without meat and drink</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Thatchers.</hi>
+                        </cell>
+                        <cell>Of the best sort with meat and drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort with meat and drink</cell>
+                        <cell>9d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>18d.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A paire of Sawyers.</hi>
+                        </cell>
+                        <cell>With meat and drink</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>without meat and drink</cell>
+                        <cell>4s.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>Artificers working by the Day from the midst of September, to the midst of March.</head>
+                     <row>
+                        <cell>
+                           <hi>Free-Masons.</hi>
+                        </cell>
+                        <cell>Of the best sort with meat and drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort with meat and drink</cell>
+                        <cell>10d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>20d.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Carpenters.</hi>
+                        </cell>
+                        <cell>Of the best sort with meat and drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat or drink</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort with meat and drink</cell>
+                        <cell>10d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>20d.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Of the second sort.</hi>
+                        </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>With meat and drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>Common Labourers and Workmen by the Day.</head>
+                     <row>
+                        <cell> </cell>
+                        <cell>For mowing Corn and Grass by the day with meat and drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>For Reaping of Corn with meat and drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>For making of Hay with meat and drink</cell>
+                        <cell>8d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>16d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Labourers of the best sort from the midst of September to the midst of March with meat and drink</cell>
+                        <cell>8d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>16d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>The same of the second sort with meat and drink</cell>
+                        <cell>6d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>The same of the best sort from the midst of March to the midst of Sep<g ref="char:EOLhyphen"/>tember with meat and drink</cell>
+                        <cell>10d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>18d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>The same of the second sort with meat and drink</cell>
+                        <cell>8d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>14d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Mowing of Grass well grown by the Acre</cell>
+                        <cell>2s. 6d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Mowing of Barley well grown by the Acre</cell>
+                        <cell>14d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Mowing of Oats well grown by the Acre</cell>
+                        <cell>14d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Mowing of Beans by the Acre</cell>
+                        <cell>2s. 6d</cell>
+                     </row>
+                     <pb facs="tcp:194004:2"/>
+                     <row>
+                        <cell>
+                           <hi>Bakers being Furners.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>10l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>6l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Butchers being Foremen.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>10l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>6l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Brewers.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>20l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>10l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sawyers.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>12l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>8l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Plaisterers.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>12l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>8l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Taylors,</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>8l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>6. l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Glovers.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>8l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>6l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Turners.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>10l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>7l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Fletchers.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>8l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>6l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sadlers.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>8l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>6l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Coopers.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>8l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>6l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Water-Corn Millers.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>12.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>8l.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>
+                        <hi>Artificers working by the Day from the midst of</hi> March, <hi>to the midst of</hi> September.</head>
+                     <row>
+                        <cell>
+                           <hi>Free-Masons.</hi>
+                        </cell>
+                        <cell>Of the best sort with meat and drink</cell>
+                        <cell>18d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>without meat and drink</cell>
+                        <cell>2s. 6d</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort with meat and drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Carpenters.</hi>
+                        </cell>
+                        <cell>Of the best sort with meat and drink</cell>
+                        <cell>18d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>without meat and drink</cell>
+                        <cell>2s. 6d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort with meat and drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Joyners.</hi>
+                        </cell>
+                        <cell>Of the best sort with meat and drink</cell>
+                        <cell>18d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>2s. 6d</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort with meat drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Joyners.</hi>
+                        </cell>
+                        <cell>Of the best sort with meat and drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort with meat and drink</cell>
+                        <cell>10d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>without meat and drink</cell>
+                        <cell>20d.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Carvers.</hi>
+                        </cell>
+                        <cell>Of the best sort with meat and drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort with meat and drink</cell>
+                        <cell>10d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>20d.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Bricklayers.</hi>
+                        </cell>
+                        <cell>Of the best sort with meat and drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort with meat and drink</cell>
+                        <cell>10d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>20d.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tylers.</hi>
+                        </cell>
+                        <cell>Of the best sort with meat and drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort with meat and drink</cell>
+                        <cell>10d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>without meat and drink</cell>
+                        <cell>20d.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Thatchers.</hi>
+                        </cell>
+                        <cell>Of the best sort with meat and drink</cell>
+                        <cell>8d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>18d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort with meat and drink</cell>
+                        <cell>6d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>16d.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A paire of Sawyers.</hi>
+                        </cell>
+                        <cell>With meat and drink</cell>
+                        <cell>20d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>without meat and drink</cell>
+                        <cell>3s.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>Sawyers working by the great.</head>
+                     <row>
+                        <cell> </cell>
+                        <cell>For sawing of Boards by the hun<g ref="char:EOLhyphen"/>dred, for every hundred</cell>
+                        <cell>3s.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>For sawing of slitting work by the hundred, for every hundred</cell>
+                        <cell>3s.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>Husbandmen and Hi<gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> serving by the Year.</head>
+                     <row>
+                        <cell>
+                           <hi>Carters, or Drivers</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>8l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>6l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the third sort</cell>
+                        <cell>4l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Hindes, or Husband<g ref="char:EOLhyphen"/>men.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>6l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>4l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the third sort</cell>
+                        <cell>3l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Gardiners.</hi>
+                        </cell>
+                        <cell>Of the best sort</cell>
+                        <cell>8l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the second sort</cell>
+                        <cell>6l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Of the third sort</cell>
+                        <cell>4l.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Gardiners wor<g ref="char:EOLhyphen"/>king by the day</hi>
+                        </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>2s. 6d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>With meat and drink</cell>
+                        <cell>18d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Reaping, binding, &amp; laying in shacks of Wheat or Rie well grown, and not very sore Lidge, by the Acre</cell>
+                        <cell>6s.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Thrashing and making clean Wheat by the Quarter</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>The like for Rie by the Quarter</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>The like for Barly by the quarter</cell>
+                        <cell>14d</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>The like for Oats and Beans by the Quarter</cell>
+                        <cell>14d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>For pleshing of a good Quick-Hedge by the Rod</cell>
+                        <cell>3d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Making of a Hedge, Ditch, with double Quick-set, the Ditch being 2 foot and an half deep, 4 foot wide at the brim, and one foot wide in the bottom; for every Pole the workman finding Quick</cell>
+                        <cell>14d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>The same, the Ditch being two foot deep, 3. foot wide, and less then one foot in the bottom; for a Pole</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Scowring and paring the Bank of an old Ditch</cell>
+                        <cell>3d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Felling and making tall Wood by the Load</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Felling and making Billet by the thousand</cell>
+                        <cell>2s.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Felling and hewing Colewood by the dozen</cell>
+                        <cell>20d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Felling, making and binding of Fag<g ref="char:EOLhyphen"/>gots, and Brush, or Lash Baven by the hundred</cell>
+                        <cell>2s. 6d.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>Women serving or working by the Year, and by the Day.</head>
+                     <row>
+                        <cell> </cell>
+                        <cell>The best Woman Servant by the year</cell>
+                        <cell>4l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>The second sort</cell>
+                        <cell>3l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>The third sort</cell>
+                        <cell>2l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Women making Hay by the day with meat and drink</cell>
+                        <cell>6d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>The same for Reaping Corn with meat and drink</cell>
+                        <cell>6d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>The same for other Harvest Work with meat and drink</cell>
+                        <cell>6d.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Without meat and drink</cell>
+                        <cell>12d.</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
